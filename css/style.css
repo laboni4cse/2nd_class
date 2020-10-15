@@ -1,0 +1,62 @@
+body{}
+ .container{
+  width: 100%;
+  background-color: #b3a9a917;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+        }
+h1{ 
+	margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+img  {
+		width: 80px;
+		margin: 0px auto;
+       }
+
+
+.set {
+	margin: 30px 0px;
+	padding: 0px 120px;
+	text-align: left;
+	font-size: 40px;
+	font-weight: 10px;
+}
+p{
+	margin: 30px 0px;
+	padding: 0px 120px;
+}
+.info{
+	color: red;
+}
+.org{
+	color:#2196f3;
+
+}
+.uni{
+
+   color:#4caf50;
+
+}
+.use{
+	color: #ffc107;
+}
+.banner img{
+	width: 1100px;
+	margin-left: 123px;
+}
+.footer h1 {
+	   background-color: #00964e;
+	    padding: 80px 0px;
+	        margin-left: 114px;
+    margin-right: 114px;
+	   
+
+}
+
+	
